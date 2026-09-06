@@ -1,0 +1,16 @@
+# The Kronos Library — books by P. I. Ford
+> Eight volumes on the science, economics, and stakes of fusion energy, written alongside the Kronos Fusion Energy program.
+
+/ (/books/): The Kronos Library index — all eight volumes with covers, subtitles, and format availability.
+
+Volumes:
+- The Fusion Energy Equations (2nd ed) — the physics of the Kronos machines
+- The Isotope Economy — how fusion's neutrons will heal, fuel, and secure the world
+- To the Moon for Fuel — the Helium-3 century
+- The Machine That Controls the Machine — AI, digital twins, designing a star in silicon
+- Energy Is Water — fusion, desalination, and the cities that drink the sea
+- The Forty-Dollar Electron — firm power, data centers, and the new grid
+- The Long Night — the century-long story of the fusion dream
+- Energy, Sovereignty, and the End of Resource War — the geopolitics of abundant energy
+
+Author: P. I. Ford. Publisher: Kronos Fusion Energy. Print / eBook / audiobook editions rolling out on Amazon KDP and Google Play.
